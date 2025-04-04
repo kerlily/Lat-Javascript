@@ -6,5 +6,6 @@ const palindrom = (word) => {
         return false;
     }
 }
-console.log(palindrom('susah hasus'));
+console.log(palindrom('SULII'));
+console.log(palindrom('SILIS'));
 
